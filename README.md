@@ -22,7 +22,7 @@ Edit `index.qmd`, `experience.qmd`, `photos.qmd`, `cv.qmd`, and `portfolio-20261
 
 ## Host with GitHub Pages
 
-Commit the source and rendered `docs/` files. In this repository's GitHub Settings → Pages, select **Deploy from a branch**, the `main` branch, and the `/docs` folder. The expected project-site address is `https://leiag10.github.io/leia1000/` after deployment; deployment has not been configured or verified by this setup.
+Commit the source and rendered `docs/` files. In this repository's GitHub Settings → Pages, select **Deploy from a branch**, the `main` branch, and the `/docs` folder. The account-site address is `https://leiag10.github.io/` after deployment. This repository must be named `leiag10.github.io`. The original `leiag10/leia1000` project remains independent; edit this repository for the shorter account-site address. Deployment has not yet been configured or verified.
 
 The `leiag100` repository is independent and has not been changed.
 

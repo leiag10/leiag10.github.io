@@ -15,6 +15,7 @@ project:
     - portfolio-caslon.css
     - portfolio-baskervville.css
 website:
+  site-url: https://leiag10.github.io/
   title: Leia George
   description: Clinical care, mental health research, and a commitment to people.
   navbar:
